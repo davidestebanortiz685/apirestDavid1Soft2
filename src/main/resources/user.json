@@ -1,0 +1,24 @@
+[
+    {
+     "id": 1,
+
+    "name":"david ortiz",
+
+     "email": "david@gmail.com"
+
+    },
+    {
+        "id": 2,
+   
+       "name":"andres mosquera",
+   
+        "email": "andres1@gmail.com"
+   
+    },
+    {
+        "id":3,
+        "name":"Maicol montoya",
+        "email":"Maicolmon432@gmail.com"
+    }
+
+]
